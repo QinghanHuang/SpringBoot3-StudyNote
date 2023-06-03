@@ -14,7 +14,6 @@ import java.lang.ref.PhantomReference;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@JacksonXmlRootElement
 public class User {
     private int id;
     private String name;
