@@ -44,6 +44,7 @@
     <modules>
         <module>boot3-01-log</module>
         <module>boot3-02-web</module>
+        <module>boot3-03-ssm</module>
     </modules>
 
     <build>
